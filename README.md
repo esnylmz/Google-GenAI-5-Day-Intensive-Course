@@ -1,4 +1,4 @@
-🧠 Project Overview: AI Research Assistant
+## 🧠 Project Overview: AI Research Assistant
 
 Academic research and writing a thesis is a demanding process. Researchers must not only discover, read, and digest a large number of papers but also understand their significance, compare them with others, and position their own work accordingly.
 
@@ -10,9 +10,9 @@ To address this pain point, our Capstone Project proposes a Generative AI-powere
 🧩 This project was voluntarily developed as part of the Google 5-Day GenAI Intensive Course. While participation in the Capstone Project was optional, we were motivated to explore how Generative AI can address real challenges in academic research. This assistant reflects our effort to apply what we learned in a meaningful, user-centric way.
 
 Medium: https://medium.com/@esn.yilmaz1806/introduction-a-thesis-students-dilemma-518c746175de
+Our Kaggle notebook: https://www.kaggle.com/code/eesinyilmaz/google-capstone-project-final/edit
 
-
-Solution Overview
+#### Solution Overview
 We built a research assistant that can:
 
 - Extract and summarize research papers (from PDF, URL, or plain text)
@@ -33,7 +33,7 @@ This project demonstrates **6 GenAI** capabilities:
 | ✅ RAG                                    | arXiv retrieval + Gemini generation to compare user paper with others.    
 
 
-Impact and Innovation
+#### Impact and Innovation
 This project tackles a real academic pain point using state-of-the-art GenAI techniques. It bridges traditional literature review with modern GenAI workflows:
 
 - It saves hours of manual effort in summarizing, comparing, and outlining papers
