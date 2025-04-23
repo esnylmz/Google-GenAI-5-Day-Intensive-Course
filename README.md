@@ -15,11 +15,11 @@ Medium: https://medium.com/@esn.yilmaz1806/introduction-a-thesis-students-dilemm
 Solution Overview
 We built a research assistant that can:
 
-Extract and summarize research papers (from PDF, URL, or plain text)
-Retrieve topically similar papers from arXiv using the extracted topic
-Use vector embeddings and FAISS to find semantically similar papers
-Generate comparisons between user papers and retrieved ones
-Provide structured abstracts, outlines, and even evaluate student writing for academic tone
+- Extract and summarize research papers (from PDF, URL, or plain text)
+- Retrieve topically similar papers from arXiv using the extracted topic
+- Use vector embeddings and FAISS to find semantically similar papers
+- Generate comparisons between user papers and retrieved ones
+- Provide structured abstracts, outlines, and even evaluate student writing for academic tone
 
 This project demonstrates **6 GenAI** capabilities:
 
@@ -36,6 +36,6 @@ This project demonstrates **6 GenAI** capabilities:
 Impact and Innovation
 This project tackles a real academic pain point using state-of-the-art GenAI techniques. It bridges traditional literature review with modern GenAI workflows:
 
-It saves hours of manual effort in summarizing, comparing, and outlining papers
-It shows how retrieval + generation (RAG) can be combined with vector similarity search
-It offers a glimpse into automated peer review, AI tutors for researchers, and future learning assistants
+- It saves hours of manual effort in summarizing, comparing, and outlining papers
+- It shows how retrieval + generation (RAG) can be combined with vector similarity search
+- It offers a glimpse into automated peer review, AI tutors for researchers, and future learning assistants
